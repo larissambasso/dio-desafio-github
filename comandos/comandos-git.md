@@ -5,4 +5,4 @@
 *Git pull* - é usado para receber o conteúdo do repositório remoto para um repositório local.<br>
 *Git commit* - grava uma nova alteraçao em seu repositorio, um novo save. Atraves desses commits é possivel acessar todo o historico de alterações do projeto.
 
-[documentaçao do git](https://git-scm.com/doc)
+{[documentaçao do git](https://git-scm.com/doc):target="\_blank"}
