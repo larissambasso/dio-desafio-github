@@ -1,0 +1,7 @@
+O QUE É O GIT
+
+O Git é um sistema distribuído opensource de controle de versão, isso quer dizer que é um software
+que possui uma utilizaçao livre do publico, permitindo que qualquer pessoa use, modifique e aprimore
+o software.
+O objetivo deste sistema é registrar todas as mudanças feitas no código-fonte de um projeto,
+evitando que algo importante se perca no meio do caminho.
